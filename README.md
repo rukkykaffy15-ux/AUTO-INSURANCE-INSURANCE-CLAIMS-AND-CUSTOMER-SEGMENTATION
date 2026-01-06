@@ -9,8 +9,8 @@ This project analyzes motor insurance claims data to identify risk patterns and 
 
 ## Objectives
 - Analyze demographics and claim patterns to assess risk profiles.
-- Identify High Risk Customer Profile
-- Improve Underwriting and Pricing
+- Enhance Customer Retention Strategies drivers of lifetime Value and claims
+- Identify High Risk Customer Profile Using claims and policy data
 
 ---
 
@@ -22,7 +22,7 @@ This project analyzes motor insurance claims data to identify risk patterns and 
   - Premium Amount
   - Claim Amount
   - Vehicle Type
-  - Policy Start Date
+
 
 ---
 
