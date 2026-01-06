@@ -59,3 +59,6 @@ This project analyzes motor insurance claims data to identify risk patterns and 
 
 ##  Dashboard Preview
 
+![image_6483441](https://github.com/user-attachments/assets/544ea2f1-f7c8-4362-86c7-8e1a78581a88)
+
+
