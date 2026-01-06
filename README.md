@@ -7,15 +7,15 @@ This project analyzes motor insurance claims data to identify risk patterns and 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze demographics and claim patterns to assess risk profiles.
 - Identify High Risk Customer Profile
 - Improve Underwriting and Pricing
 
 ---
 
-## 🗂️ Dataset Description
-- *Source:*  Public -KAGGLE
+##  Dataset Description
+- *Source:*  Public KAGGLE
 - *Key Fields:*
   - Customer ID
   - Policy ID
@@ -26,14 +26,14 @@ This project analyzes motor insurance claims data to identify risk patterns and 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
   
 - Power BI   
 - DAX QUERY  
 
 ---
 
-## 📐 Methodology
+## Methodology
 1. Data cleaning and preprocessing    
 2. KPI calculation  
 3. Exploratory data analysis  
@@ -41,14 +41,13 @@ This project analyzes motor insurance claims data to identify risk patterns and 
 
 ---
 
-## 📈 Key Metrics
-- *Loss Ratio:* Total Claims ÷ Total Earned Premium  
-- *Claim Frequency:* Number of Claims ÷ Number of Policies  
+##  Key Metrics
+- *Loss Ratio:* Total Claims ÷ Total Earned Premium   
 - *Average Claim Severity:* Total Claim Amount ÷ Number of Claims  
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Low-income earners contribute significantly to total coverage value, underscoring insurance as a necessity, not a luxury
 - Four-door vehicles dominate coverage volume, while luxury SUVs carry the highest coverage values
 - Suburban customers carry higher risk, while rural customers are lower risk—highlighting where underwriting and retention strategies can be optimized.
@@ -59,5 +58,5 @@ This project analyzes motor insurance claims data to identify risk patterns and 
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 Add screenshots of your dashboard here
